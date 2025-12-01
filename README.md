@@ -4,8 +4,6 @@ I'm a second year student at the University of fırat. at the same time, softwar
 
 - ⚡ I write articles on [medium](https://medium.com/@Hakan-Kuru)
   
-- ✍️ I also contribute to [HSD Fırat University](https://medium.com/@hsdfiratuniversity) and am part of the community. Check out our LinkedIn page: [HSD Fırat University](https://www.linkedin.com/company/hsdfiratuniversity/)  
-
 - 🌱 I’m currently work on **android development** with **kotlin**.
 
 - 📫 How to get connected **hakan.kuru345@gmail.com**
