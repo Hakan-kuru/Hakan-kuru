@@ -24,9 +24,9 @@ I'm a second year student at the University of fırat. at the same time, softwar
 
 ## 📈 GitHub İstatistikleri
 
-![Adınızın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
+![Hakan'ın GitHub İstatistikleri](https://github-readme-stats-hakan.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical&v=1) 
+![En Çok Kullanılan Diller](https://github-readme-stats-hakan.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical&v=1)
 
 ![github-contribution-grid-snake](https://github.com/infernotlc/infernotlc/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)<svg viewBox="-16 -32 880 192" width="1000" height="192" xmlns="http://www.w3.org/2000/svg">
 <!---
