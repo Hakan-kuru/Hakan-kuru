@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hakan-kuru
 
-I'm a second year student at the University of fırat. at the same time, software developer working on developing Android applications. 
+I'm a third year student at the University of fırat. at the same time, software developer working on developing Android applications. 
 
 - ⚡ I write articles on [medium](https://medium.com/@Hakan-Kuru)
   
