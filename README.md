@@ -29,7 +29,11 @@ I'm a third year student at the University of fırat. at the same time, software
 ![En Çok Kullanılan Diller](https://github-readme-stats-hakan.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical&v=1)
 
 ![github-contribution-grid-snake](https://github.com/infernotlc/infernotlc/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)<svg viewBox="-16 -32 880 192" width="1000" height="192" xmlns="http://www.w3.org/2000/svg">
-<!---
-Hakan-kuru/Hakan-kuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## ☕ Support Me
+
+If you find my projects useful or interesting, consider supporting me.
+
+- ❤️ [GitHub Sponsors](https://github.com/sponsors/Hakan-kuru)
+  
+Every support means a lot and keeps me motivated 🚀
