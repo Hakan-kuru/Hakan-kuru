@@ -16,19 +16,19 @@ I'm a third year student at the University of fırat. at the same time, software
 
 ## 🛠 Languages and Tools
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>                                <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Android" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="50" height="50"/>                          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Android" width="100" height="50"/>
 
 
 ## 📈 GitHub İstatistikleri
 
-![Hakan'ın GitHub İstatistikleri](https://github-readme-stats-hakan.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
+![Hakan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats-hakan.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical&v=1)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical)
 
-![github-contribution-grid-snake](https://github.com/infernotlc/infernotlc/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)<svg viewBox="-16 -32 880 192" width="1000" height="192" xmlns="http://www.w3.org/2000/svg">
+![github-contribution-grid-snake](https://github.com/infernotlc/infernotlc/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)
 
 ## ☕ Support Me
 
