@@ -24,9 +24,13 @@ I'm a third year student at the University of fırat. at the same time, software
 
 ## 📈 GitHub İstatistikleri
 
-![Profile Summary Card](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/0-profile-details.svg)
+![Profile Details](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/0-profile-details.svg)
 
-![Top Languages](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/1-skills-per-repo.svg)
+![Repos per Language](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+
+![Stats](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/4-productive-time.svg)
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/output/github-contribution-grid-snake-dark.svg)
 
