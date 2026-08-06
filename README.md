@@ -24,11 +24,11 @@ I'm a third year student at the University of fırat. at the same time, software
 
 ## 📈 GitHub İstatistikleri
 
-![Hakan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
+![Profile Summary Card](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/0-profile-details.svg)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical)
+![Top Languages](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/main/profile-summary-card-output/radical/1-skills-per-repo.svg)
 
-![github-contribution-grid-snake](https://github.com/infernotlc/infernotlc/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Hakan-kuru/Hakan-kuru/output/github-contribution-grid-snake-dark.svg)
 
 ## ☕ Support Me
 
